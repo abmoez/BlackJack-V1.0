@@ -1,4 +1,4 @@
-# BlackJack-V1.0
+# WhiteJack-V1.0
 Hello there1 We are computer engineering students at Helwan University
 This our first complete and Java project. We created the Halal version of blackJack, whitejack. The game is Halal as it requires no real money lol.
 Enjoy playin' my friend
